@@ -1,0 +1,7 @@
+[
+    {"Name":"Echo di Bergamo", "Type":"NewsPaper","Language":"Italian","Category":"National NewsPapers", "Country":"Italy", "Region":"-", "ExpiryDate":"5/09/2020"},
+    {"Name":"Cronoca Qui", "Type":"NewsPaper","Language":"Italian","Category":"National NewsPapers", "Country":"Italy", "Region":"-", "ExpiryDate":"07/10/2020"},
+    {"Name":"Abitare", "Type":"Magzine","Language":"Italian","Category":"Other Magzine", "Country":"Italy","Region":"-", "ExpiryDate":"15/12/2020"},
+    {"Name":"Gazztta Matin", "Type":"NewsPaper","Language":"Italian","Category":"Regional NewsPapers", "Country":"Italy","Region":"-", "ExpiryDate":"15/12/2020"},
+    {"Name":"Clociaria Oggi ", "Type":"NewsPaper","Language":"Italian","Category":"Regional NewsPapers", "Country":"Italy","Region":"-", "ExpiryDate":"15/12/2020"}
+]
